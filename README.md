@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E6E6E&random=false&width=600&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Am%C3%A9rico+Rodrigues;Seja+muito+bem-vindo+ao+meu+perfil+no+GitHub+!" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=C9C9C9&background=270076&center=true&vCenter=true&random=false&width=560&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Am%C3%A9rico+Rodrigues;Seja+muito+bem-vindo+ao+meu+perfil+no+Github+!" alt="Typing SVG" /></a>
 ##
 
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas 
