@@ -29,7 +29,7 @@ em banco de dados relacional com Mysql e não relacional com Firebase
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=americorodrigues25&bg_color=121212&color=491bff&line=491bff&point=4e2acf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Tecnologias e ferramentas:
+## Tecnologias e ferramentas que uso ou ja tive contato:
 
 ### 🧑‍💻 Front-End
 
@@ -49,6 +49,7 @@ em banco de dados relacional com Mysql e não relacional com Firebase
 ### 🛠️ Back-End & Banco de Dados
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
   <br>
