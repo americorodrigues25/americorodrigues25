@@ -9,6 +9,7 @@ em React e Typescript por meio de projetos práticos e cursos. Tenho focado tamb
 em NodeJs com express, consumo de API´s Rest e além disso, possuo conhecimento
 em banco de dados relacional com Mysql e não relacional com Firebase
 </p>
+<br>
 
 <div align="center">  
   <img 
@@ -58,8 +59,8 @@ em banco de dados relacional com Mysql e não relacional com Firebase
    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
    <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
 </div>
-<br>
 
+---
 ## Entre em contato:
 <div>
   <a href="https://wa.me/55SEUNUMERO" target="_blank">
