@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6640ff&height=120&section=header"/>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5000&pause=300&color=6640ff&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Am%C3%A9rico+Rodrigues;Desenvolvedor+Front-End;Seja+bem+vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?weight=500&duration=5000&pause=300&color=6640ff&center=true&width=1000&lines=Olá%2C+sou+Américo+Rodrigues;Desenvolvedor+Front-End;Seja+bem+vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=5000&pause=300&color=6640ff&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Am%C3%A9rico+Rodrigues;Desenvolvedor+Front-End;Seja+bem+vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 
 ## Sobre mim
