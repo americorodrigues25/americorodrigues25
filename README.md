@@ -77,11 +77,9 @@ em banco de dados relacional com Mysql e não relacional com Firebase
 
 <br>
 
-<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=americorodrigues25&label=Visitantes&color=491BBF&style=for-the-badge" />
 </p>
--->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=491bbf&height=120&section=footer"/>
 
