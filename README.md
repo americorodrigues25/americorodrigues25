@@ -1,35 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=491bbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6640ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5000&pause=300&color=491BBF&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Am%C3%A9rico+Rodrigues;Desenvolvedor+Front-End;Seja+bem+vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
-
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?duration=3909&pause=500&color=47F780&lines=Olá+Sou+o+Marcos+Martins+De+Lima;Software+Engineer;)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5000&pause=300&color=6640ff&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Am%C3%A9rico+Rodrigues;Desenvolvedor+Front-End;Seja+bem+vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 ## Sobre mim
 <p>
-Sou um desenvolvedor Front-End, aprimorando constantemente minhas habilidades
-em React e Typescript por meio de projetos práticos e cursos. Tenho focado também
-em NodeJs com express, consumo de API´s Rest e além disso, possuo conhecimento
-em banco de dados relacional com Mysql e não relacional com Firebase
+Sou um desenvolvedor Front-End, aprimorando constantemente minhas habilidades em React e TypeScript por meio de projetos práticos e cursos. Tenho focado também em Node.js com Express, consumo de APIs REST e, além disso, possuo conhecimento em banco de dados relacional (MySQL) e não relacional (Firebase)
 </p>
 <br>
 
-<div align="center">  
-  <img 
-    width="49%" 
-    height="195px" 
-    src="https://github-readme-stats.vercel.app/api?username=americorodrigues25&show_icons=true&count_private=true&hide_border=false&theme=radical" 
-    alt="Americo Rodrigues github stats"
-  /> 
-  <img 
-    width="41%" 
-    height="195px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=americorodrigues25&layout=compact&hide_border=false&theme=radical" 
-  />
-</div>
+![MarcosMartinsDeLima's GitHub stats](https://github-readme-stats.vercel.app/api?username=americorodrigues25&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=americorodrigues25&hide_progress=false&theme=radical&layout=compact)
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=americorodrigues25&bg_color=121212&color=491bff&line=491bff&point=4e2acf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=americorodrigues25&bg_color=121212&color=6640ff&line=6640ff&point=4e2acf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Tecnologias e ferramentas que uso ou ja tive contato:
 
@@ -59,6 +43,7 @@ em banco de dados relacional com Mysql e não relacional com Firebase
  ### 🧰 Ferramentas
   <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
    <img src="https://img.shields.io/badge/Expo-1C2024.svg?style=for-the-badge&logo=Expo&logoColor=white" />
+   <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />
    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
    <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
 </div>
@@ -81,12 +66,10 @@ em banco de dados relacional com Mysql e não relacional com Firebase
 
 <br>
 
-<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=americorodrigues25&label=Visitantes&color=491BBF&style=for-the-badge" />
 </p>
--->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=491bbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6640ff&height=120&section=footer"/>
 
 
