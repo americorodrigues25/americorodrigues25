@@ -5,7 +5,7 @@
 
 ## Sobre mim
 <p>
-Sou um desenvolvedor Front-End, aprimorando constantemente minhas habilidades em React e TypeScript por meio de projetos práticos e cursos. Tenho focado também em Node.js com Express, consumo de APIs REST e, além disso, possuo conhecimento em banco de dados relacional (MySQL) e não relacional (Firebase)
+Sou um desenvolvedor Front-End, aprimorando constantemente minhas habilidades em React e TypeScript por meio de projetos práticos e cursos. Tenho focado também em Node.js com Express, consumo de APIs REST e, além disso, possuo conhecimento em banco de dados relacional MySQL e não relacional Firebase e MongoDB
 </p>
 <br>
 
