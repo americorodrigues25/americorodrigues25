@@ -5,8 +5,9 @@
 
 ### Sobre mim
 <p>
-Sou um desenvolvedor Front-End, aprimorando constantemente minhas habilidades em React e TypeScript por meio de projetos práticos e cursos. Tenho focado também em Node.js com Express, consumo de APIs REST e, além disso, possuo conhecimento em banco de dados relacional MySQL e não relacional Firebase e MongoDB
+Desenvolvedor Front-End focado em <b>React, Next.js</b> e <b>TypeScript</b>, com experiência em <b>Node.js</b>, <b>APIs REST</b> e bancos de dados <b>MySQL</b>, <b>Firebase</b> e <b>MongoDB</b>. Em constante aprimoramento técnico e profissional.
 </p>
+
 <br>
 
 ![AmericoRodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=americorodrigues25&show_icons=true&theme=radical)
