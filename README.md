@@ -15,8 +15,6 @@ Desenvolvedor Front-End focado em <b>React, Next.js</b> e <b>TypeScript</b>, com
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=americorodrigues25&bg_color=121212&color=6640ff&line=6640ff&point=4e2acf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ### Principais techs que uso:
