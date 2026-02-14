@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6640ff&height=120&section=header"/>
 
+
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=5000&pause=300&color=6640ff&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Am%C3%A9rico+Rodrigues;Desenvolvedor+Front-End;Seja+bem+vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 
@@ -19,7 +20,7 @@ Foco em performance, organização de código e experiência do usuário.
 
 ---
 
-### Principais techs que uso:
+### Stack Principal:
 
 #### 💻 Front-End
 <div>
@@ -48,6 +49,7 @@ Foco em performance, organização de código e experiência do usuário.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </div>
 
 ---
@@ -58,11 +60,6 @@ Foco em performance, organização de código e experiência do usuário.
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </div>
 
 <div>
