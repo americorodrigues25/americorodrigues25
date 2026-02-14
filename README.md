@@ -5,7 +5,9 @@
 
 ### Sobre mim
 <p>
-Desenvolvedor Front-End focado em <b>React, Next.js</b> e <b>TypeScript</b>, com experiência em <b>Node.js</b>, <b>APIs REST</b> e bancos de dados <b>MySQL</b>, <b>Firebase</b> e <b>MongoDB</b>. Em constante aprimoramento técnico e profissional.
+Desenvolvedor Front-End especializado em interfaces modernas com <b>React</b> e <b>Next.js</b>.
+Experiência construindo aplicações completas com autenticação, APIs e persistência de dados em tempo real.
+Foco em performance, organização de código e experiência do usuário.
 </p>
 
 <br>
