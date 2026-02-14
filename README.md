@@ -11,13 +11,6 @@ Experiência construindo aplicações completas com autenticação, APIs e persi
 Foco em performance, organização de código e experiência do usuário.
 </p>
 
-<br>
-
-![AmericoRodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=americorodrigues25&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=americorodrigues25&hide_progress=false&theme=radical&layout=compact)
-
-<br>
-
 ---
 
 ### Stack Principal:
